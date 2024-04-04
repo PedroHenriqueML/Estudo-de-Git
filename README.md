@@ -29,7 +29,7 @@ git checkout <nome-branch>
 - muda pra essa branch
 
 git branch -b <nome-da-branch>
--criar uma nova branch a partir da branch atual que estamos
+- criar uma nova branch a partir da branch atual que estamos
 
 git remote add <nome> <url>
 - add um novo repositorio remoto
